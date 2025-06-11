@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=500&lines=Hola%2C+soy+Luis!+👋;Hi%2C+I'm+Luis!+👋;Ingeniero+de+Software+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hola%2C+soy+Luis!+👋;Ingeniero+de+Software+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Hi%2C+I'm+Luis!+👋;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,8 +8,8 @@
 
 <p align="center">
 👨🏻‍🎓 Actualmente soy estudiante de Ingeniería de Software en la <a href="https://u-tad.com/" target="_blank">U-tad</a> con mención en Ingeniería de Datos. <br>
-🏢 Estudiante en <a href="https://www.42madrid.com/" target="_blank">42 Madrid</a>, academia de programación de Telefónica basada en proyectos y aprendizaje entre pares. <br>
-👨🏻‍💻 Me gusta construir soluciones con impacto: desde aplicaciones web hasta proyectos con inteligencia artificial y análisis de datos. <br>
+🏢 Estudiante en <a href="https://www.42madrid.com/" target="_blank">42 Madrid</a>, escuela de programación innovadora de Telefónica, con aprendizaje peer-to-peer y resolución de retos de software. <br>
+👨🏻‍💻 Me gusta construir soluciones con impacto: desde aplicaciones web y móvil hasta proyectos con inteligencia artificial y análisis de datos. <br>
 🔭 Apasionado del desarrollo de software, la inteligencia artificial y la exploración espacial. <br>
 </p>
 
@@ -25,10 +25,10 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
@@ -44,7 +44,7 @@
 </p>
 
 <!-- Backend & Dev -->
-<h3>🛠️ Backend & APIs</h3>
+<h3>🛠 Backend & APIs</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
@@ -52,7 +52,7 @@
 </p>
 
 <!-- Bases de Datos y Cloud -->
-<h3>☁️ Databases & Cloud</h3>
+<h3>☁ Databases & Cloud</h3>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
@@ -71,7 +71,7 @@
 </p>
 
 <!-- Automatización & DevOps -->
-<h3>⚙️ Automation & DevOps</h3>
+<h3>⚙ Automation & DevOps</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -82,9 +82,9 @@
 <!-- Herramientas -->
 <h3>🧰 Tools</h3>
 <p>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
 ---
@@ -99,34 +99,12 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
 <p align="center">
-
-  <a href="https://github.com/Luiiss44/CSFloat-Telegram-Bot" target="_blank">
-    <img src="https://img.shields.io/badge/CSFloat%20Telegram%20Bot-blueviolet?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <br>
-  <strong>Bot de inversión en skins de CS2</strong>: Desarrollado en Python, desplegado en Oracle Cloud. Monitoriza float & precios de mercado para enviar alertas automatizadas por Telegram.
-
-  <br><br>
-
-  <a href="https://github.com/Luiiss44/terminal-rpg-java" target="_blank">
-    <img src="https://img.shields.io/badge/Terminal%20RPG%20Java-brightgreen?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  <br>
-  <strong>Juego RPG por consola en Java</strong>: Sistema de vehículos, pedidos y estadísticas persistentes. Arquitectura MVC organizada por capas.
-
-  <br><br>
-
-  <a href="https://github.com/Luiiss44/space-data-visualization" target="_blank">
-    <img src="https://img.shields.io/badge/Space%20Data%20Visualizer-orange?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
-  <br>
-  <strong>Visualización de datos espaciales</strong>: Análisis y visualización de datasets de la NASA y SpaceX con Pandas, Seaborn y Plotly.
-
+  <img src="https://github-contributor-stats.vercel.app/api?username=Luiiss44&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
