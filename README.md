@@ -28,8 +28,10 @@
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300BFFF.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
@@ -44,7 +46,7 @@
 </p>
 
 <!-- Backend & Dev -->
-<h3>🛠 Backend & APIs</h3>
+<h3>🛠️ Backend & APIs</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
@@ -52,7 +54,7 @@
 </p>
 
 <!-- Bases de Datos y Cloud -->
-<h3>☁ Databases & Cloud</h3>
+<h3>☁️ Databases & Cloud</h3>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
@@ -71,7 +73,7 @@
 </p>
 
 <!-- Automatización & DevOps -->
-<h3>⚙ Automation & DevOps</h3>
+<h3>⚙️ Automation & DevOps</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -83,8 +85,26 @@
 <h3>🧰 Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UML-%23008080.svg?style=for-the-badge&logo=uml&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📌 Pinned Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Luiiss44/skyline-logistics" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=skyline-logistics&theme=dark" />
+  </a>
+  <a href="https://github.com/Luiiss44/MovieApp" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=MovieApp&theme=dark" />
+  </a>
+  <a href="https://github.com/Luiiss44/Telefonica42" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=Telefonica42&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -99,12 +119,4 @@
 
 ---
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Luiiss44&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
