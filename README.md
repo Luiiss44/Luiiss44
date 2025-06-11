@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hola%2C+soy+Luis!+👋;Ingeniero+de+Software+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hola%2C+soy+Luis!+👋;Ingeniero+de+Software+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Hi%2C+I'm+Luis!+👋;Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
@@ -8,8 +8,8 @@
 
 <p align="center">
 👨🏻‍🎓 Actualmente soy estudiante de Ingeniería de Software en la <a href="https://u-tad.com/" target="_blank">U-tad</a> con mención en Ingeniería de Datos. <br>
-🏢 Estudiante en <a href="https://www.42madrid.com/" target="_blank">42 Madrid</a>, academia de programación de Telefónica basada en proyectos y aprendizaje entre pares. <br>
-👨🏻‍💻 Me gusta construir soluciones con impacto: desde aplicaciones web hasta proyectos con inteligencia artificial y análisis de datos. <br>
+🏢 Estudiante en <a href="https://www.42madrid.com/" target="_blank">42 Madrid</a>, escuela de programación innovadora de Telefónica, con aprendizaje peer-to-peer y resolución de retos de software <br>
+👨🏻‍💻 Me gusta construir soluciones con impacto: desde aplicaciones web y aplicaciones móviles hasta proyectos con inteligencia artificial y análisis de datos. <br>
 🔭 Apasionado del desarrollo de software, la inteligencia artificial y la exploración espacial. <br>
 </p>
 
