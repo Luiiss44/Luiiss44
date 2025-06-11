@@ -8,8 +8,8 @@
 
 <p align="center">
 👨🏻‍🎓 Actualmente soy estudiante de Ingeniería de Software en la <a href="https://u-tad.com/" target="_blank">U-tad</a> con mención en Ingeniería de Datos. <br>
-🏢 Estudiante en <a href="https://www.42madrid.com/" target="_blank">42 Madrid</a>, escuela de programación innovadora de Telefónica, con aprendizaje peer-to-peer y resolución de retos de software <br>
-👨🏻‍💻 Me gusta construir soluciones con impacto: desde aplicaciones web y aplicaciones móviles hasta proyectos con inteligencia artificial y análisis de datos. <br>
+🏢 Estudiante en <a href="https://www.42madrid.com/" target="_blank">42 Madrid</a>, escuela de programación innovadora de Telefónica, con aprendizaje peer-to-peer y resolución de retos de software. <br>
+👨🏻‍💻 Me gusta construir soluciones con impacto: desde aplicaciones web y móvil hasta proyectos con inteligencia artificial y análisis de datos. <br>
 🔭 Apasionado del desarrollo de software, la inteligencia artificial y la exploración espacial. <br>
 </p>
 
