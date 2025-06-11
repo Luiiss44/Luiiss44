@@ -107,7 +107,7 @@
 <hr width="50%">
 
 <a href="https://github.com/Luiiss44/MovieApp" target="_blank">
-  <img src="https://img.shields.io/badge/MovieApp%20(Pixion)-Kotlin-blueviolet?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/MovieApp%20-Kotlin-blueviolet?style=for-the-badge&logo=android&logoColor=white" />
 </a>
 <p><em>App Android moderna con arquitectura MVVM y conexión a la API de TMDB. Soporta favoritos vía Firebase.</em><br>
 <b>Tecnologías:</b> Kotlin, Firebase, TMDB API, Jetpack Components</p>
