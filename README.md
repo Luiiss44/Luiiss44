@@ -28,8 +28,10 @@
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300BFFF.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XML-%23E34F26.svg?style=for-the-badge&logo=xml&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
@@ -83,8 +85,23 @@
 <h3>🧰 Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UML-%23008080.svg?style=for-the-badge&logo=uml&logoColor=white"/>
+</p>
+
+---
+
+<h2 align="center">📌 Pinned Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Luiiss44/CSFloat-Telegram-Bot" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=CSFloat-Telegram-Bot&theme=dark" />
+  </a>
+  <a href="https://github.com/Luiiss44/Digitales2" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=Digitales2&theme=dark" />
+  </a>
 </p>
 
 ---
@@ -95,14 +112,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Luiiss44&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Luiiss44&theme=dark&hide_border=false"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiiss44&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-</p>
-
----
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Luiiss44&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
