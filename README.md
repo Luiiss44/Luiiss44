@@ -93,19 +93,43 @@
 
 ---
 
-<h2 align="center">📌 Pinned Projects</h2>
+---
 
-<p align="center">
-  <a href="https://github.com/Luiiss44/skyline-logistics" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=skyline-logistics&theme=dark" />
-  </a>
-  <a href="https://github.com/Luiiss44/MovieApp" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=MovieApp&theme=dark" />
-  </a>
-  <a href="https://github.com/Luiiss44/Telefonica42" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=Telefonica42&theme=dark" />
-  </a>
-</p>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Luiiss44/skyline-logistics" target="_blank">Skyline Logistics</a></h3>
+      <p>
+        Sistema de simulación logística desarrollado en Java que implementa patrones de diseño avanzados (como Singleton, Strategy, DAO, etc.)
+        para gestionar flotas de transporte, pedidos y distribución. Proyecto académico que muestra buenas prácticas de diseño y arquitectura orientada a objetos.
+      </p>
+      <p><strong>Tecnologías:</strong> Java, POO, patrones de diseño, arquitectura en capas</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Luiiss44/MovieApp" target="_blank">MovieApp (Pixion)</a></h3>
+      <p>
+        Aplicación Android moderna desarrollada en Kotlin con arquitectura MVVM. Permite buscar películas y series mediante la API de TMDB, gestionar
+        usuarios con Firebase y almacenar favoritos en Firestore. Incluye navegación entre vistas, fragmentos y uso de RecyclerView.
+      </p>
+      <p><strong>Tecnologías:</strong> Kotlin, Firebase, MVVM, TMDB API, Jetpack Components</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/Luiiss44/Telefonica42" target="_blank">42 Madrid – Proyectos de Formación</a></h3>
+      <p>
+        Repositorio que recoge ejercicios, algoritmos y proyectos desarrollados en C como parte del proceso formativo en <a href="https://42madrid.com" target="_blank">42 Madrid</a>.
+        Incluye proyectos como libft, push_swap y evaluaciones que consolidan el dominio de estructuras de datos, memoria dinámica y buenas prácticas en C.
+      </p>
+      <p><strong>Tecnologías:</strong> C, Git, Makefiles, estructuras de datos, algoritmos</p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
