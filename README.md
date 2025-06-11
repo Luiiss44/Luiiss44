@@ -97,39 +97,43 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/Luiiss44/skyline-logistics" target="_blank">Skyline Logistics</a></h3>
-      <p>
-        Sistema de simulación logística desarrollado en Java que implementa patrones de diseño avanzados (como Singleton, Strategy, DAO, etc.)
-        para gestionar flotas de transporte, pedidos y distribución. Proyecto académico que muestra buenas prácticas de diseño y arquitectura orientada a objetos.
-      </p>
-      <p><strong>Tecnologías:</strong> Java, POO, patrones de diseño, arquitectura en capas</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/Luiiss44/MovieApp" target="_blank">MovieApp (Pixion)</a></h3>
-      <p>
-        Aplicación Android moderna desarrollada en Kotlin con arquitectura MVVM. Permite buscar películas y series mediante la API de TMDB, gestionar
-        usuarios con Firebase y almacenar favoritos en Firestore. Incluye navegación entre vistas, fragmentos y uso de RecyclerView.
-      </p>
-      <p><strong>Tecnologías:</strong> Kotlin, Firebase, MVVM, TMDB API, Jetpack Components</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/Luiiss44/Telefonica42" target="_blank">42 Madrid – Proyectos de Formación</a></h3>
-      <p>
-        Repositorio que recoge ejercicios, algoritmos y proyectos desarrollados en C como parte del proceso formativo en <a href="https://42madrid.com" target="_blank">42 Madrid</a>.
-        Incluye proyectos como libft, push_swap y evaluaciones que consolidan el dominio de estructuras de datos, memoria dinámica y buenas prácticas en C.
-      </p>
-      <p><strong>Tecnologías:</strong> C, Git, Makefiles, estructuras de datos, algoritmos</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+<a href="https://github.com/Luiiss44/skyline-logistics" target="_blank">
+  <img src="https://img.shields.io/badge/Skyline%20Logistics-Java-orange?style=for-the-badge&logo=java&logoColor=white" />
+</a>
+<p><em>Simulación logística en Java con arquitectura limpia y patrones como Singleton, DAO, Strategy.</em><br>
+<b>Tecnologías:</b> Java, POO, patrones de diseño, arquitectura en capas</p>
+
+<hr width="50%">
+
+<a href="https://github.com/Luiiss44/MovieApp" target="_blank">
+  <img src="https://img.shields.io/badge/MovieApp%20(Pixion)-Kotlin-blueviolet?style=for-the-badge&logo=android&logoColor=white" />
+</a>
+<p><em>App Android moderna con arquitectura MVVM y conexión a la API de TMDB. Soporta favoritos vía Firebase.</em><br>
+<b>Tecnologías:</b> Kotlin, Firebase, TMDB API, Jetpack Components</p>
+
+<hr width="50%">
+
+<a href="https://github.com/Luiiss44/Telefonica42" target="_blank">
+  <img src="https://img.shields.io/badge/42%20Madrid%20Projects-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</a>
+<p><em>Desarrollo de proyectos fundamentales en C (libft, push_swap...) en 42 Madrid. Enfocado a estructuras de datos y algoritmos.</em><br>
+<b>Tecnologías:</b> C, estructuras de datos, Git, Makefiles</p>
+
+</div>
+
+---
+
+<h2 align="center">🎓 Academic & Professional Profile</h2>
+
+<p align="center">
+📘 <b>Grado en Ingeniería del Software</b> (Mención en Ingeniería de Datos) por <a href="https://www.u-tad.com/" target="_blank">U-tad</a>.<br>
+🧠 Conocimientos en desarrollo full-stack, bases de datos relacionales/NoSQL, procesamiento de datos, IA y machine learning.<br>
+🛰️ Proyectos integradores: apps web, IoT, recomendadores, visión por computador y ciencia de datos.<br>
+💼 Formación complementaria en <a href="https://www.42madrid.com/" target="_blank">42 Madrid</a>, con aprendizaje peer-to-peer y retos prácticos en C, algoritmos, estructuras de datos y shell scripting.<br>
+🚀 Objetivo profesional: aplicar ingeniería de datos e inteligencia artificial en sectores científicos y aeroespaciales.
+</p>
 
 ---
 
@@ -142,5 +146,4 @@
 </p>
 
 ---
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
