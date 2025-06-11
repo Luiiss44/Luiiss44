@@ -96,11 +96,14 @@
 <h2 align="center">📌 Pinned Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Luiiss44/CSFloat-Telegram-Bot" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=CSFloat-Telegram-Bot&theme=dark" />
+  <a href="https://github.com/Luiiss44/skyline-logistics" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=skyline-logistics&theme=dark" />
   </a>
-  <a href="https://github.com/Luiiss44/Digitales2" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=Digitales2&theme=dark" />
+  <a href="https://github.com/Luiiss44/MovieApp" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=MovieApp&theme=dark" />
+  </a>
+  <a href="https://github.com/Luiiss44/Telefonica42" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luiiss44&repo=Telefonica42&theme=dark" />
   </a>
 </p>
 
